@@ -1,0 +1,9 @@
+language: 'tr'
+tr:
+  short-arguments:
+    message: '&cKullanım: /message <player> <message>'
+    reply: '&cKullanım: /reply <message>'
+  player-not-found: '&cBu adında oyuncu bulunamadı.'
+  message-format: '&a<sender> &f→ &c<target> &f: &7<message>'
+  you-havent-messaged-anyone-recently: '&cKimseyle mesajlaşmadın.'
+  that-player-has-logged-out: '&cBu oyuncu oyundan çıkmıştı.'

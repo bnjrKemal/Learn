@@ -1,0 +1,7 @@
+main: com.bnjrKemal.First3.First3Main
+version: 1.0
+author: bnjrKemal
+name: First3
+commands:
+  pushla:
+  broadcastx:

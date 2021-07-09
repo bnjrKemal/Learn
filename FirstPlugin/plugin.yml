@@ -1,0 +1,16 @@
+version: 1.0
+main: com.bnjrKemal.example.Main
+name: FirstPluginx
+api-version: 1.13
+commands:
+  health:
+    ailases: [kalp, 20yap]
+    description: Good command
+  config:
+    description: Good command
+  food:
+  args:
+  xholo:
+  xtest:
+  xvanish:
+  skull:

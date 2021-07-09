@@ -1,0 +1,10 @@
+main: com.bnjrKemal.PrivateMessage.PrivateMessageMain
+version: 1.0
+author: bnjrKemal
+name: PrivateMessage
+api-version: 1.13
+commands:
+  message:
+    aliases: [msg]
+  reply:
+    aliases: [r]

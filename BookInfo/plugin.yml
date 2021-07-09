@@ -1,0 +1,6 @@
+main: com.bnjrKemal.BookInfo.BookInfoMain
+version: 1.0
+author: bnjrKemal
+name: BookInfo
+commands:
+  book:

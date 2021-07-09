@@ -1,0 +1,6 @@
+main: com.bnjrKemal.CustomYML.CustomYMLMain
+version: 1.0
+author: bnjrKemal
+name: CustomYML
+commands:
+  test:

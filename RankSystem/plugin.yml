@@ -1,0 +1,7 @@
+main: com.bnjrKemal.RankSystem.RankSystemMain
+version: 1.0
+author: bnjrKemal
+name: RankSystem
+api-version: 1.13
+commands:
+  setrank:

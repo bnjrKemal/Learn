@@ -1,0 +1,10 @@
+scoreboard:
+  displayname: '&cTest ScoreBoard'
+  list:
+  - '&ewww.website.com'
+  - '&1 '
+  - '&bconfig.yml''den deðiþ-'
+  - '&btirebilirsin.'
+  - '&2 '
+  - '&6Sen: &e@player'
+  - '&6Çevrimiçi: &e@online'

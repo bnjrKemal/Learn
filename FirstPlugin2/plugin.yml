@@ -1,0 +1,9 @@
+version: 1.0
+main: com.bnjrKemal.FirstPlugin2.FirstPlugin2Main
+name: FirstPlugin2
+api-version: 1.13
+commands:
+  banner:
+  cooldown:
+  menu:
+  hover:

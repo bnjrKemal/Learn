@@ -1,0 +1,7 @@
+main: com.bnjrKemal.GUIPage.GUIPageMain
+version: 1.0
+name: GUIPage
+api-version: 1.13
+author: bnjrKemal
+commands:
+  gui:

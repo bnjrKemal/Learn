@@ -1,0 +1,15 @@
+string: 'Selam'
+string2: "Merhaba"
+integer: 12
+db: 5.0
+ch: 'c'
+
+list:
+  list:
+    list:
+    - list
+    - list2
+    - list3
+  list2:
+    list:
+      list: 'List''i listeledim.'
