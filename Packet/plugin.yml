@@ -1,6 +1,0 @@
-main: com.bnjrKemal.Packet.PacketMain
-name: Packet
-version: 1.0
-api-version: 1.13
-commands:
-  packets:
