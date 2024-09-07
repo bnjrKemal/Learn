@@ -36,7 +36,7 @@ public class DBMain extends JavaPlugin {
 		port = 3306;
 		database = "example db";
 		username = "root";
-		password = "Bacon123!.";
+		password = "password";
 		
 		connection = DriverManager.getConnection(
 				"jdbc:mysql://" + 
